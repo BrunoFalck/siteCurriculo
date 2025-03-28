@@ -1,0 +1,14 @@
+header{
+    border: 3px solid rgb(0, 60, 255);
+    background-color: rgb(0, 162, 255);
+    color: black;
+}
+body{
+    background-color: beige;
+}
+img{
+    width: 30px;
+}
+a{
+    color: black;
+}
