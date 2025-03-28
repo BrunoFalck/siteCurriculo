@@ -1,0 +1,34 @@
+header{
+    border: 3px solid rgb(0, 60, 255);
+    background-color: rgb(0, 162, 255);
+    color: black;
+}
+body{
+    background-color: beige;
+}
+img{
+    width: 30px;
+}
+a{
+    color: black;
+}
+.large-input {
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+}
+.espaco{
+    margin-right: 50px;
+    padding-right: 20px;
+}
+.corpo {
+    position: relative;
+  }
+  
+  .elemento {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+  }
+  
